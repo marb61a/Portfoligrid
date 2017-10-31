@@ -1,0 +1,28 @@
+{
+  "name": "portfoligrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marb61a/Portfoligrid.git"
+  },
+  "author": "Martin",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marb61a/Portfoligrid/issues"
+  },
+  "homepage": "https://github.com/marb61a/Portfoligrid#readme"
+}
